@@ -57,6 +57,8 @@ main{
 }
 
 .banner{
+    display: block;
+    margin: auto;
     width: 100%;
     border-radius: 10px;
     margin-bottom: 30px;
@@ -114,7 +116,61 @@ h2{
 
 }
 
+.main-title{
+    text-align: center;
+}
 
+.content-banner{
+    margin-top: 50px;
+    width: 70%;
+}
+
+.introduction{
+    display:block;
+    margin: 80px auto;
+    
+}
+
+.information{
+    width: 65%;
+    display:block;
+
+}
+
+.section-heading{
+    text-align: center;
+
+}
+
+.information-section{
+    width: 75%;
+    margin: 80px auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    align-items: flex-start;
+}
+
+
+
+.image-description-container{
+    width: 15%;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    border-radius: 5px;
+}
+.image-description{
+    margin: 10px 10px;
+    text-align: center;
+}
+
+.information-image{
+
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);  
+
+}
 
 .footer{
     background-color:#e30a17;
@@ -124,4 +180,6 @@ h2{
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 
 }
+
+
 
