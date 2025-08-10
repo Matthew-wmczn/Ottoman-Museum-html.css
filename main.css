@@ -28,11 +28,13 @@ header {
 .logo{
     display: flex;
     align-items: center;
+    text-decoration: none;
 }
 
 .logo-text{
     font-weight: 700;
     font-size: 22px;
+    color: white;
 }
 
 .logo-image{
@@ -129,6 +131,10 @@ h2{
 
 .military{
     background-image: url(A_torokok_Nandorfehervarra_tartanak.JPG);
+}
+
+.major-campaigns{
+    background-image: url(Constantinople_1453.jpg);
 }
 
 .comming-soon{
