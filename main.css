@@ -206,6 +206,7 @@ h2{
 }
 
 .image-description{
+    font-size: 1vw;
     margin: 0.625vw 0.625vw;
     text-align: center;
 }
@@ -286,6 +287,12 @@ h2{
     .content-image-description-container{
        width:35% ;
     }
+
+    .image-description{
+    font-size: 2vw;
+    margin: 1vw 1.1vw;
+    text-align: center;
+}
 
     .information-image{
        width:100%;
